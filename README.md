@@ -26,5 +26,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 **Nathália Caldeira**  
-[LinkedIn Profile](www.linkedin.com/in/nathália-caldeira-9886b3173)  
+[LinkedIn Profile](https://www.linkedin.com/in/nathália-caldeira-9886b3173)  
 [Email](mailto:ncaldeira.trad@gmail.com)
