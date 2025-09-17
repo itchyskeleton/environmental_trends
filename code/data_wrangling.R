@@ -59,3 +59,5 @@ hist(
 )
 
 # It appears that our data is more or less homogeneous.
+
+boxplot()
