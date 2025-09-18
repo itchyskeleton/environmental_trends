@@ -11,7 +11,9 @@ output: html_document
 ![Stats](https://img.shields.io/badge/📊-Statistical%20Analysis-red?style=for-the-badge)
 ![ML](https://img.shields.io/badge/🤖-Machine%20Learning-purple?style=for-the-badge)
 
-**A comprehensive statistical analysis pipeline for identifying key predictors of tree health status**
+**A comprehensive statistical analysis pipeline for identifying key predictors of tree health status.**
+
+**So far, this document only compiles what is to be done in the analysis. Nothing is done yet. Watch my next steps!**
 
 [📊 View Analysis](./tree_health_analysis.ipynb) • [📈 Results Dashboard](./results/) • [📋 Documentation](./docs/)
 
@@ -263,5 +265,3 @@ Special thanks to:
 ![GitHub last commit](https://img.shields.io/github/last-commit/itchyskeleton/environmental_trends)
 
 **Made with 🌳 for forest science and ❤️ for open source**
-
-*Last updated: September 17th 2025*
