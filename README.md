@@ -128,8 +128,7 @@ environmental_trends/
 ├── 📊 tree_health_analysis.ipynb    # Main analysis notebook
 ├── 📈 data/
 │   ├── raw/                         # Raw datasets
-│   ├── processed/                   # Clean datasets  
-│   └── sample_data.csv             # Sample data for testing
+│   ├── processed/                   # Clean datasets
 ├── 📋 results/
 │   ├── figures/                    # Generated visualizations
 │   ├── models/                     # Saved model objects
@@ -138,7 +137,7 @@ environmental_trends/
 │   ├── methodology.md              # Detailed methodology
 │   ├── interpretation_guide.md     # Results interpretation
 │   └── troubleshooting.md          # Common issues & solutions
-├── 🛠️ src/
+├── 🛠code/
 │   ├── data_preparation.py         # Data cleaning functions
 │   ├── statistical_analysis.py    # Statistical testing functions
 │   └── visualization.py           # Plotting functions
